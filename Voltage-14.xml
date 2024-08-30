@@ -10,6 +10,9 @@
  <project path="kernel/xiaomi/earth" name="Jayzee-Zee/android_kernel_xiaomi_earth" remote="ghubb" revision="nonksu" clone-depth="1" />
  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="ghubb" revision="lineage-21" clone-depth="1" />
  <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" remote="ghubb" revision="lineage-21" clone-depth="1" />
-
-
+        
+<!-- frameworks_base -->
+ <remove-project name="android_frameworks_base" />
+ <project path="frameworks/base" name="RisingTechOSS/android_frameworks_base" remote="ghubb" revision="fourteen" clone-depth="1" />
+        
 </manifest>
