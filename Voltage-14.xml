@@ -13,6 +13,6 @@
 
 <!-- frameworks_base -->
  <remove-project name="frameworks_base" />
- <project path="frameworks/base" name="The-Pixel-Project/frameworks_base" remote="ghubb" revision="fourteen" clone-depth="1" />
+ <project path="frameworks/base" name="The-Pixel-Project/frameworks_base" remote="ghubb" revision="fourteen-qpr3" clone-depth="1" />
 
 </manifest>
