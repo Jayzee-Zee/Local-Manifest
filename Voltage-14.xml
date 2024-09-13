@@ -16,5 +16,3 @@
  <project path="frameworks/base" name="RisingTechOSS/android_frameworks_base" remote="ghubb" revision="fourteen" clone-depth="1" />
 
 </manifest>
-        
-</manifest>
