@@ -13,7 +13,7 @@
         path="device/xiaomi/earth" 
         name="Jayzee-Zee/android_device_xiaomi_earth" 
         remote="ghubb" 
-        revision="matrixx" 
+        revision="matrixx-1" 
         clone-depth="1"
     >
         <!-- Device tree for Xiaomi Earth -->
